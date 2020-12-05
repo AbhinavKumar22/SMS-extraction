@@ -10,4 +10,4 @@ I used the app - SMS Backup & Restore, to get myself the xml file I need to begi
 
 
 ------------ Simple import hit button ----------------
-![simple gui](import switch.jpg)
+![simple gui](switch.jpg)
