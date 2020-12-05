@@ -5,4 +5,8 @@ To begin wtih you need to store all the sms on your phone in an xml file. Don't 
 I used the app - SMS Backup & Restore, to get myself the xml file I need to begin with.
 
 
+------------sample xml file snippet --------------
 ![sample xml file snippet](Inkedsms_LI.jpg)
+
+
+![simple gui]()
