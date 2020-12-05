@@ -1,4 +1,4 @@
-
+## the code was written in jupyter notebook, that is why you are seeing line seperation comments throughout the code!
 # coding: utf-8
 
 # In[102]:
