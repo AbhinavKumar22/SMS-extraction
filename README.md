@@ -11,3 +11,7 @@ I used the app - SMS Backup & Restore, to get myself the xml file I need to begi
 
 ------------ Simple import hit button ----------------
 ![simple gui](switch.jpg)
+
+
+-------------Sample output file snippet --------------
+![Sample output file](excel.jpg)
