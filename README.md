@@ -1,0 +1,2 @@
+# SMS-extraction
+Have you ever thought of arranging all the sms on your phone in an exvell sheet !. Well, during lockdown this thought crossed my mind while I was changing to a new android phone !
