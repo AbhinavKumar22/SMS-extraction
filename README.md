@@ -9,4 +9,5 @@ I used the app - SMS Backup & Restore, to get myself the xml file I need to begi
 ![sample xml file snippet](Inkedsms_LI.jpg)
 
 
-![simple gui]()
+------------ Simple import hit button ----------------
+![simple gui](import switch.PNG)
